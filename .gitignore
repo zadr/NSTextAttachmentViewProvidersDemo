@@ -1,0 +1,16 @@
+syntax: glob
+
+*build*
+
+*.DS_Store
+
+*.mode1v3
+*.pbxuser
+
+*.LSOverride
+
+*xcuserdata*
+
+*DerivedData*
+*.xcworkspacedata
+*.xcodeproj/project.xcworkspace
